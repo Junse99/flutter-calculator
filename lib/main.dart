@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'iOS Calculator Clone',
-      debugShowCheckedModeBanner: false, // Quitamos la etiqueta de debug
+      debugShowCheckedModeBanner: false, 
       theme: ThemeData(
         // Configuramos el tema oscuro para que coincida con el diseño
         brightness: Brightness.dark,
